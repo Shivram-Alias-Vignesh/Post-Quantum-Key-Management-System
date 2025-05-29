@@ -1,5 +1,5 @@
 
-# Quantum Dynamic Escape Mechanism (Q-Defender) - D8071 
+# Quantum Dynamic Escape Mechanism (Q-Defender) 
 
 ## Overview
 
@@ -50,11 +50,8 @@ Quantum Dynamic Escape Mechanism /
 1. **Clone or extract** the repository.
 2. **Install dependencies** (Python 3.10+ recommended):
 
-```bash
-pip install -r requirements.txt
-```
 
-> Create `requirements.txt` with the necessary libraries such as `scikit-learn`, `tensorflow`, `pandas`, `flask`, etc.
+
 
 ## Usage
 
